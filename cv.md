@@ -18,6 +18,7 @@
 - **VSCode**
 - **React basics**
 - **BEM**
+
 ## Code example
 ```
 const form = document.querySelector('form');
