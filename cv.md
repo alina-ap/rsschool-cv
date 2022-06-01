@@ -4,7 +4,8 @@
 - **City:** Tomsk, Russia
 - **Email:** apermkva@gmail.com
 - **Phone:** +7 963 456 78 89
-- **Github:**
+- **Github:** [alina-ap](адрес "https://github.com/alina-ap")
+
 ## About
 ## Skills
 - **HTML**
@@ -37,9 +38,9 @@ const form = document.querySelector('form');
 ```
 ## Experience
 ## Education
-1. **Rubius IT** Frontend-Development Course
-2. **Rolling Scopes School** Frontend Stage 0 (in progress) 
-3. **Tomsk State Univercity**, Journalism
+- **Rubius IT** Frontend-Development Course
+- **Rolling Scopes School** Frontend Stage 0 (in progress) 
+- **Tomsk State Univercity**, Journalism
 ## Language Skills
 - **Russian**: native
 - **English**: upper-intermediate(B2)
